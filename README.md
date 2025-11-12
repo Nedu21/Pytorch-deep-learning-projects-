@@ -1,2 +1,2 @@
-# Pytorch-deep-learning-projects-
-A repo containing my pytorch projects
+# Pytorch-deep-learning-projects
+A repo containing my pytorch projects😁😁
